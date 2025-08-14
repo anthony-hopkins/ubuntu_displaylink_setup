@@ -41,8 +41,8 @@ This project provides an automated script that handles the complete setup proces
 
 1. **Clone or download this repository:**
    ```bash
-   git clone <repository-url>
-   cd Ubuntu_DisplayLink_Setup
+   git clone https://github.com/anthony-hopkins/ubuntu_displaylink_setup.git
+   cd ubuntu_displaylink_setup
    ```
 
 2. **Place your DisplayLink installer in the project directory:**
